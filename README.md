@@ -1,6 +1,6 @@
 # Real-Time Arabic Sign Language Interpreter
 
-The ArSL2018 is a new comprehensive fully labelled dataset of Arabic Sign Language images launched in Prince Mohammad Bin Fahd University, Al Khobar, Saudi Arabia to be made available for researchers in the field of Machine Learning and Deep Learning. The ArSL2018 dataset is compiled of 54,049 images in gray scale with 64 × 64 dimension. Variations of images were introduced with different lighting and different background. 
+The [ArSL2018](https://data.mendeley.com/datasets/y7pckrw6z2/1) is a new comprehensive fully labelled dataset of Arabic Sign Language images launched in Prince Mohammad Bin Fahd University, Al Khobar, Saudi Arabia to be made available for researchers in the field of Machine Learning and Deep Learning. The ArSL2018 dataset is compiled of 54,049 images in gray scale with 64 × 64 dimension. Variations of images were introduced with different lighting and different background. 
 
 ![](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/47d41d2b-27e6-48d3-bce5-8705837d36ae/gr1_lrg.jpg)
 
