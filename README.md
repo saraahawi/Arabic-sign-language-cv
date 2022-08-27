@@ -47,7 +47,7 @@ The [ArSL2018](https://data.mendeley.com/datasets/y7pckrw6z2/1) is a new compreh
 1) Labeling images for object detection.
 2) Generating TensorFlow Records. 
 3) Training transfer learning model on my data.
-4) Fin-tuning my model to improve its performance.
+4) Fine-tuning my model to improve its performance.
 4) Test and deploy model.
 
 ## Take-home message:
@@ -66,7 +66,7 @@ Transfer learning is a powerful tool used to build highly capable models, howeve
 
 ## Content 
 
-```bash
+```console
 ./
 │   README.md
 |   .gitignore
