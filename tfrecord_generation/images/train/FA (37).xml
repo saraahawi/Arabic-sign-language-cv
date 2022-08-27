@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fa</folder>
+	<filename>FA (37).JPG</filename>
+	<path>/Users/saraali/Documents/misk-DSI/Arabic-sign-language-cv/data/Images/fa/FA (37).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ف</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>20</ymin>
+			<xmax>49</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>

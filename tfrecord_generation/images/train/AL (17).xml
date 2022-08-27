@@ -1,0 +1,26 @@
+<annotation>
+	<folder>al</folder>
+	<filename>AL (17).JPG</filename>
+	<path>/Users/saraali/Documents/misk-DSI/Arabic-sign-language-cv/data/Images/al/AL (17).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ال</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>4</ymin>
+			<xmax>56</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

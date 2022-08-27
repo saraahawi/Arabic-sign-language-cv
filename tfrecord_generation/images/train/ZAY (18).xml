@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zay</folder>
+	<filename>ZAY (18).JPG</filename>
+	<path>/Users/saraali/Documents/misk-DSI/Arabic-sign-language-cv/data/Images/zay/ZAY (18).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ز</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>14</ymin>
+			<xmax>49</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>

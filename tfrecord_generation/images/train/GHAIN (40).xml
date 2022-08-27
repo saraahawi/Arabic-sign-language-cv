@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ghain</folder>
+	<filename>GHAIN (40).JPG</filename>
+	<path>/Users/saraali/Documents/misk-DSI/Arabic-sign-language-cv/data/Images/ghain/GHAIN (40).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>غ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>26</ymin>
+			<xmax>47</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

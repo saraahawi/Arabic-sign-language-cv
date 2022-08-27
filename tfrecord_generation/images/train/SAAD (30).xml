@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saad</folder>
+	<filename>SAAD (30).JPG</filename>
+	<path>/Users/saraali/Documents/misk-DSI/Arabic-sign-language-cv/data/Images/saad/SAAD (30).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ص</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>35</ymin>
+			<xmax>44</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>
